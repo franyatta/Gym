@@ -1,0 +1,8 @@
+Ryan,Campbell,31,124.6,6.12,One Time,Bench Press;Walking;Hammer Curls;Row
+Izzy,Edwards,26,168.71,5.89,Recreation Center,Bike;Barbell Squat;Reverse Fly;Skull Crushers;Lat Pulldown
+Dustin,Jones,19,135,5.52,Iron Gym,Dead Lift;Barbell Squat;Incline Dumbell Press;Split Squat;Running
+Amanda,Holm,25,125.9,5.76,One Time,Bench Press;Elliptical;Body Weight Squat;Tricep Extensions
+Leon,Burns,41,205.51,6.45,Recreation Center,Bench Press;Elliptical;Body Weight Squat;Tricep Extensions;Barbell Squat;Reverse Fly;Skull Crushers;Lat Pulldown
+Rafael,Whittaker,37,170,5.90,Mars Fitness,Reverse Fly;Skull Crushers;Bench Press
+Maycee,Hill,35,136.8,5.73,One Time,Stair Stepper;Barbell Squat;Tricep Extensions
+Sean,Sterling,18,265,6.8,Iron Gym,Elliptical;Bicep Curls;Reverse Fly

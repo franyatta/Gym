@@ -1,0 +1,19 @@
+Bench Press,Weights,Chest,true
+Bike,Cardio,Legs,true
+Running,Cardio,Full Body,false
+Body Weight Squat,Weights,Legs,false
+Barbell Squat,Weights,Legs,false
+Bicep Curls,Weights,Arms,false
+Lat Pulldown,Weights,Back,true
+Stair Stepper,Cardio,Legs,true
+Dead Lift,Weights,Full Body,true
+Skull Crushers,Weights,Arms,true
+Incline Dumbell Press,Weights,Chest,true
+Elliptical,Cardio,Full Body,true
+Walking,Cardio,Full Body,false
+Leg Press,Weights,Legs,true
+Split Squat,Weights,Legs,false
+Hammer Curls,Weights,Arms,false
+Row,Weights,Back,true
+Reverse Fly,Weights,Back,true
+Tricep Extensions,Weights,Arms,true
